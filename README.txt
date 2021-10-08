@@ -41,3 +41,4 @@ Support : 4472
 CONCLUSIONS
 
 We trained K - nearest neighbour, Support Vector Ma- chine, logistic regression, XG boosting classifier, Gradient boosting, Ada-boost classifier, Random forest classifier, Ex- tra Tree Classifier, Neural Network, Gaussian naive bayes, and Multinomial naive bayes classifier for the Twitter user’s and tweet’s data, Text of the tweet by transforming it to the word count vectors and tf-idf vectors. After running those models on the testing set, the best outcome obtained was an accuracy of 0.98, using SVM classifier which was trained us- ing the tf-idf vectors of the text of tweets. After combining the results obtained from the models we obtain an accuracy of 0.981 which means the post voting results are better and are used instead of any single method. All this was done on a dataset collected, annotated and compiled manually by the group members.
+
